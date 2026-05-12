@@ -23,7 +23,7 @@
 
 ### 深度思考 (播客/访谈)
 
-| 分类 | 名称 | 简介 | 链接 |
+| 分类 | 名称 | 简介 | 博客链接 |
 |------|------|------|------|
 | 🔥 硬核技术 | [Latent Space](https://www.youtube.com/@LatentSpacePod) | 强烈推荐。工程师主持，专聊"潜空间"和技术细节，嘉宾质量极高。 | [YouTube](https://www.youtube.com/watch?v=35ZWesLrv5A) |
 | 💰 VC/趋势 | [No Priors](https://www.youtube.com/@NoPriorsPodcast) | 强烈推荐。Elad Gil 主理。投资人视角看 AI，关注"下一个大机会"。 | |
